@@ -1,0 +1,10 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.9.0
+  login.cpp
+  main.cpp
+  mainmenu.cpp
+  reg.cpp
+  qrc_pic.cpp
+  moc_login.cpp
+  moc_mainmenu.cpp
+  NEEDManagementSystem.vcxproj -> C:\Users\NQ_Snvw\Documents\NEEDManagementSystem\debug\NEEDManagementSystem.exe
